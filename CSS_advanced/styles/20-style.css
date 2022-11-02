@@ -189,7 +189,7 @@ ul.row {
 
 .row::after {
   grid-row: 1 / span 2;
-  display: none;
+  
   display: table;
   clear: both;
 }
