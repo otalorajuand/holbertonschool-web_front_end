@@ -338,7 +338,7 @@ ul.row {
   right: 0;
 }
 
-.card-work .card-title:hover {
+.card-work:hover .card-title {
   opacity: 1;
 }
 
