@@ -208,6 +208,6 @@ ul.row {
 
 }
 
-.social-link .svg {
+.social-link > svg {
   color: var(--text-color);
 }
