@@ -308,13 +308,10 @@ ul.row {
   vertical-align: bottom;
 }
 
-.card-work:hover .card-image img {
-  transform: scale(1.2);
-}
 
 .card-work:hover .card-image {
   transition: var(–transition-duration) var(transition-cubic-bezier);
-
+  transform: scale(1.2);
 }
 
 .card-work:hover .card-outer {
