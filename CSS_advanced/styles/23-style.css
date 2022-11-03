@@ -205,7 +205,7 @@ ul.row {
 }
 
 .social-link {
-
+  display: block;
 }
 
 .social-link > svg {
